@@ -1,0 +1,3 @@
+[submodule "SampleASPContainerApp"]
+	path = SampleASPContainerApp
+	url = https://github.com/cwilhit/SampleASPContainerApp.git
